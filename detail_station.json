@@ -1,0 +1,156 @@
+{
+    "isError": false,
+    "payload": {
+        "stations": {
+            "StationV4.0": {
+                "ChangeHistory": {
+                    "com:ChangedBy": {
+                        "_text": "Unknown"
+                    },
+                    "com:LastChangedDate": {
+                        "_text": "2020-03-16T00:00:00.000Z"
+                    }
+                },
+                "CrsCode": {
+                    "_text": "TCR"
+                },
+                "AlternativeIdentifiers": {
+                    "NationalLocationCode": {
+                        "_text": "6556"
+                    }
+                },
+                "Name": {
+                    "_text": "Tottenham Court Road"
+                },
+                "SixteenCharacterName": {
+                    "_text": "TOTTENHAMCTRD"
+                },
+                "Address": {
+                    "com:PostalAddress": {
+                        "add:A_5LineAddress": {
+                            "add:Line": [
+                                {
+                                    "_text": "Tottenham Court Road station"
+                                },
+                                {
+                                    "_text": "Oxford Street"
+                                },
+                                {
+                                    "_text": "London"
+                                }
+                            ],
+                            "add:PostCode": {
+                                "_text": "W1D 2DH"
+                            }
+                        }
+                    }
+                },
+                "Longitude": {
+                    "_text": "0.1306"
+                },
+                "Latitude": {
+                    "_text": "51.5163"
+                },
+                "StationOperator": {
+                    "_text": "XR"
+                },
+                "Staffing": {
+                    "StaffingLevel": {
+                        "_text": "fullTime"
+                    },
+                    "ClosedCircuitTelevision": {
+                        "Available": {
+                            "_text": "false"
+                        }
+                    }
+                },
+                "InformationSystems": {},
+                "Fares": {
+                    "TicketOffice": {
+                        "com:Available": {
+                            "_text": "false"
+                        }
+                    },
+                    "TicketMachine": {
+                        "Available": {
+                            "_text": "false"
+                        }
+                    },
+                    "AlwaysShowOysterCardFields": {
+                        "_text": "false"
+                    }
+                },
+                "PassengerServices": {
+                    "LeftLuggage": {
+                        "com:ContactDetails": {
+                            "com:Url": {
+                                "_text": "https://www.nationalrail.co.uk/"
+                            }
+                        }
+                    },
+                    "LostProperty": {
+                        "com:ContactDetails": {
+                            "com:Url": {
+                                "_text": "https://www.nationalrail.co.uk/"
+                            }
+                        },
+                        "com:OperatorName": {
+                            "_cdata": "<a href=\"https://tfl.gov.uk/help-and-contact/lost-property\">TfL Lost property</a>"
+                        }
+                    }
+                },
+                "StationFacilities": {
+                    "WaitingRoom": {
+                        "com:Open": {
+                            "com:Annotation": {
+                                "com:Note": {
+                                    "_cdata": "Closed until further notice"
+                                }
+                            }
+                        }
+                    },
+                    "Trolleys": {
+                        "com:Available": {
+                            "_text": "false"
+                        }
+                    },
+                    "Telephones": {
+                        "com:Exists": {
+                            "_text": "false"
+                        }
+                    },
+                    "AtmMachine": {
+                        "com:Available": {
+                            "_text": "false"
+                        }
+                    }
+                },
+                "Accessibility": {
+                    "InductionLoop": {
+                        "_text": "true"
+                    },
+                    "AccessibleTicketMachines": {
+                        "com:Available": {
+                            "_text": "false"
+                        }
+                    },
+                    "HeightAdjustedTicketOfficeCounter": {
+                        "com:Available": {
+                            "_text": "false"
+                        }
+                    }
+                },
+                "StationAlerts": {
+                    "AlertText": {
+                        "_cdata": "<div><strong>NEW STATION - UNDER CONSTRUCTION</strong></div>\r\n<div><br />\r\n</div>\r\n<div>\r\nNew platforms at this Underground station will join the National Rail network when it opens as part of the Elizabeth Line.<br />\r\n</div>\r\n<div><br />\r\n</div>\r\n<div>More detail will be added to this page when it becomes available.</div>"
+                    }
+                },
+                "TrainOperatingCompanies": {
+                    "TocRef": {
+                        "_text": "XR"
+                    }
+                }
+            }
+        }
+    }
+}
